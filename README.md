@@ -1,3 +1,4 @@
 # gpdemo
 this is my first git repository
-other: gopal patel
+<br>
+auther - gopal patel
